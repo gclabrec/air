@@ -1,4 +1,4 @@
-module github.com/air-verse/air
+module github.com/gclabrec/air
 
 go 1.24
 
